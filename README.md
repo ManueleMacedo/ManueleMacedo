@@ -2,7 +2,7 @@
 
 
 
-### Atualmente eu estou cursando o 2° período da faculdade de Análise e Desenvolvimento de Sistemas na CESAR School.
+### Atualmente eu estou cursando o 2° período da faculdade de Análise e Desenvolvimento de Sistemas na CESAR School e realizando a residência tecnológica com o porto digital.
 ### Estou focando em aprender Back-End e adquirir conhecimento e prática nessa área.
 
 ## Ferramentas e Tecnologias
@@ -11,7 +11,7 @@
 ## Contatos:
 <div>
 <a href="https://www.instagram.com/manuux__/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@manuelemacedo.ads@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:manuelemacedo.ads@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/manuele-mac%C3%AAdo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
                    
